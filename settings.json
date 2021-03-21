@@ -1,7 +1,16 @@
 {
-    "intervalSecond": 1,
+    "intervalSecond": 60,
     "furufuruAtStart": false,
     "furufuruAtreverse": false,
     "furufurudX": 1,
-    "furufurudY": 1
+    "furufurudY": 1,
+    "stoppingTime": [{
+        "start": "12:00",
+        "end": "13:00",
+        "valid": true
+    }, {
+        "start": "17:30",
+        "end": "18:00",
+        "valid": true
+    }]
 }

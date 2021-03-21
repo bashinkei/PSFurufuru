@@ -18,5 +18,5 @@ SetGlobalConst "SETTING_JSON" (Join-Path $SCRIPT_ROOT "settings.json")
 
 SetGlobalConst "RUNNING_ICON_FILE" (Join-Path $RESOURCES_PATH "cursolRunnning.ico")
 SetGlobalConst "STOPPING_ICON_FILE" (Join-Path $RESOURCES_PATH "cursolStopping.ico")
-SetGlobalConst "ICON_PNG_FILE" (join-path $RESOURCES_PATH "icon64.png")
+SetGlobalConst "INVALID_ICON_FILE" (Join-Path $RESOURCES_PATH "cursolInvalid.ico")
 
